@@ -1,0 +1,23 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+.canvas {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    padding: 1px 20px 10px 20px;
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.nobull {
+    list-style-type: none;
+}
+
+.center {
+    text-align: center;
+}
